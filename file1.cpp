@@ -37,5 +37,9 @@ int main() {
     string status = statusBMI(bmi);
 
     cout << "\n--- Hasil ---"<< endl;
+    cout << "BMI Anda : " << bmi << endl;
+    cout << "Status : " << status << endl;
+
+    return 0;
 }
 
