@@ -35,4 +35,7 @@ int main() {
     
     double bmi = hitungBMI(berat, tinggi);
     string status = statusBMI(bmi);
+
+    cout << "\n--- Hasil ---"<< endl;
 }
+
